@@ -1,0 +1,11 @@
+﻿{
+  "name": "com.unigame.customtoolbar",
+  "version": "1.0.0",
+  "author": "UniGame",
+  "displayName": "Custom Toolbar",
+  "description": "Custom Toolbar",
+  "category": "Runtime",
+  "keywords": [
+    "toolbar"
+  ]
+}
