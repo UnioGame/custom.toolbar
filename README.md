@@ -11,27 +11,6 @@
 - ✅ **PlayerPrefs Clearing** - Quick clear all preferences
 - ✅ **Play Mode Options** - Dropdown for enter play mode settings
 
-## Quick Start
-
-Create a custom toolbar element in just 15 lines:
-
-```csharp
-using UnityEditor;
-using UnityEditor.Toolbars;
-
-public class MyToolbar
-{
-    [MainToolbarElement("UniGame/PlayButton", defaultDockPosition = MainToolbarDockPosition.Middle)]
-    public static MainToolbarElement PlayButton()
-    {
-        return new MainToolbarButton(
-            new MainToolbarContent("Play"),
-            () => EditorApplication.isPlaying = !EditorApplication.isPlaying
-        );
-    }
-}
-```
-
 ## Installation
 
 ```json
