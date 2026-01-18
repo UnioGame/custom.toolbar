@@ -1,11 +1,14 @@
 ﻿{
   "name": "com.unigame.customtoolbar",
-  "version": "2025.0.0",
+  "version": "2026.0.0",
   "author": "UniGame",
-  "displayName": "Custom Toolbar",
-  "description": "Custom Toolbar",
-  "category": "Runtime",
+  "displayName": "UniGame Custom Toolbar",
+  "description": "Modern toolbar extensions for Unity 6.3+ using the new UIElements-based Toolbar API",
+  "category": "Editor",
   "keywords": [
-    "toolbar"
+    "toolbar",
+    "editor",
+    "uielements",
+    "maintoolbar"
   ]
 }
