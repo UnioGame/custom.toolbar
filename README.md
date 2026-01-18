@@ -1,5 +1,7 @@
 # Unity Custom Toolbar
 
+![Custom Toolbar](https://i.ibb.co/RTZXKtwk/ctb1.png)
+
 ## Features
 
 - ✅ **Time Scale Control** - Adjust game speed with slider (0-10 range)
